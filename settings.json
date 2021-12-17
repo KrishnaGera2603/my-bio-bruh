@@ -1,0 +1,30 @@
+{
+  "metaTitle": "Krishna Gera",
+  "metaDescription": "My meta description.",
+  "name": "Krishna Gera",
+  "theme": "menu",
+  "avatarImage": "https://images-ext-2.discordapp.net/external/OlubDnXf2S93x2nIkZsP1blIQD3DT7_WjlQDBq7hR0s/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/708663182574747720/dd78042073bd8f30d51ce18029c4b58c.png",
+  "links": [
+    {
+      "url": "https://replit.com/@TWDevilOP",
+      "text": "My Repl Profile",
+      "img": ""
+    },
+    {
+      "url": "https://github.com/KrishnaGera2603",
+      "text": "My Github Profile",
+      "img": ""
+    },
+    {
+      "url": "https://glitch.com/@KrishnaGera2603",
+      "text": "My Glitch Profile",
+      "img": ""
+    }
+  ],
+  "social": {
+    "glitch": "https://glitch.com/@KrishnaGera2603",
+    "github": "https://github.com/KrishnaGera2603",
+    "instagram": "https://www.instagram.com/graphixine_visualz/",
+    "email": "krishnagera4@gmail.com"
+  }
+}
